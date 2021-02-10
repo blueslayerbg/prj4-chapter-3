@@ -2,10 +2,14 @@
 <html>
 <head>
 <meta charset="utf-8">
+
 <title>My HTML Page</title>
 </head>
 <body>
+
 <h1> Welcome to my page </h1>
+<h3> Plamen Mitev </h3>
+
 <img scr="images/Foxy.jpg alt="A picture of a cute fox">
 <p1>Look at this cute Foxy :) </p1>
 <p1>Link to the BUAS website: <a href="https://www.buas.nl/">buas.nl</a></p1>
