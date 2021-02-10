@@ -9,6 +9,7 @@
 
 <h1> Welcome to my page </h1>
 <h3> Plamen Mitev </h3>
+<h3> Dafne Ritchi </h3>
 
 <img scr="images/Foxy.jpg alt="A picture of a cute fox">
 <p1>Look at this cute Foxy :) </p1>
